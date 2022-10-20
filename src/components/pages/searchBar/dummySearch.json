@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "company":"mobility Inclusive",
+        "type":"IT Company",
+        "date":"05/10/2022"
+    },
+    {
+        "id":2,
+        "company":"Garage Productions",
+        "type":"Graphic Designer",
+        "date":"10/12/2022"
+    },
+    {
+        "id":3,
+        "company":"HDFC",
+        "type":"Banking",
+        "date":"09/2/2022"
+    },
+    {
+        "id":4,
+        "company":"no Company",
+        "type":"None",
+        "date":"05/10/2022"
+    }
+]
